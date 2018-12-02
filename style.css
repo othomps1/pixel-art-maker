@@ -1,0 +1,83 @@
+body {
+    background-color: black;
+    background-image: url("https://vignette.wikia.nocookie.net/lotr/images/5/52/Peter_Jackson%27s_Moria.jpg/revision/latest?cb=20110313211305");
+}
+
+.square  {
+    background-color: gray;
+    height: 505px;
+    width: 990px;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+}
+
+.box {
+    background-color: snow;
+    height: 20px;
+    width: 20px;
+    float: left;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+.artColor {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    float: left;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50px;
+    margin: 19px;
+}
+
+#white  {
+    background-color: white;
+}
+
+#black  {
+    background-color: black;
+}
+
+#red    {
+    background-color: red;
+}
+
+#blue   {
+    background-color: blue;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#green {
+    background-color: green;
+}
+
+#orange {
+    background-color: orange;
+}
+
+#purple {
+    background-color: purple;
+}
+
+#gray   {
+    background-color: gray;
+}
+
+#pink   {
+    background-color: pink;
+}
+
+#brown  {
+    background-color: brown;
+}
+
+#currentColor   {
+    float: right;
+}
